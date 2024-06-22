@@ -1,4 +1,4 @@
-# education_app
+# knust_opencourseware_app
 
 A new Flutter project.
 
